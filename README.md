@@ -1,6 +1,6 @@
 # A1SBERG - Developer Guide
 
-This repository contains the source code for **A1SBERG**, a client-only **Next.js** website built with **React**, **Tailwind CSS**, and **Framer Motion**. This README is intended for developers working on the project, focusing on setup, development workflow, and deployment.
+This repository for **A1SBERG**, a **Next.js** website built with **React**, **Tailwind CSS**, and **Framer Motion**.
 
 ---
 
