@@ -8,8 +8,10 @@ This repository contains the source code for **A1SBERG**, a client-only **Next.j
 
 - [Next.js](https://nextjs.org/) – React framework for static export.
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework.
+- [Shadcn UI](https://ui.shadcn.com/) – Component library built on Tailwind CSS.
 - [Framer Motion](https://www.framer.com/motion/) – Animations and transitions.
 - [Lucide Icons](https://lucide.dev/) – Icon library.
+- [MongoDB](https://www.mongodb.com/) – Database for backend integration.
 - Node.js >= 18.x
 
 ---
