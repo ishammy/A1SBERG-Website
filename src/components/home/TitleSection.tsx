@@ -111,7 +111,7 @@ export default function TitleSection() {
                         <span className="text-cyan-600 mr-2">$</span>
                         <span className="text-slate-300">Current status:</span> Breaking codes, patching vulnerabilities, and capturing flags.
                         <span className="block md:inline md:ml-2 text-[#46a9ef]">
-                             // flag&#123;root_access_granted&#125;
+                             // A1S&#123;root_access_granted&#125;
                         </span>
                     </p>
 
