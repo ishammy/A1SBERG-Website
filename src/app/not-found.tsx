@@ -6,7 +6,7 @@ import { GridOverlay } from "@/lib/utils";
 
 export default function NotFound() {
   return (
-    <div className="min-h-screen relative flex flex-col items-center justify-center p-6 bg-slate-950 overflow-hidden font-mono text-slate-300">
+    <div className="min-h-screen select-none relative flex flex-col items-center justify-center p-6 bg-slate-950 overflow-hidden font-mono text-slate-300">
       <GridOverlay />
       <div className="relative z-10 w-full max-w-lg space-y-8 text-center">
         <div className="flex flex-col items-center gap-4">
