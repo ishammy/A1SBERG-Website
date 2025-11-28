@@ -305,7 +305,7 @@ export default function AboutSection() {
 const GridOverlay = () => (
   <div className="absolute inset-0 pointer-events-none">
     <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,var(--tw-gradient-stops))] from-slate-900/90 via-slate-950 to-slate-950" />
-    <div className="absolute inset-0 bg-[url('/assets/grid-pattern.svg')] bg-center mask-[radial-gradient(ellipse_at_center,white,transparent_70%)] opacity-10" />
+   
   </div>
 );
 

@@ -9,11 +9,10 @@ export default function EventsSection() {
             
 
             <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,var(--tw-gradient-stops))] from-slate-900 via-slate-950 to-slate-950" />
-            <div className="absolute inset-0 bg-[url('/assets/grid-pattern.svg')] opacity-[0.03]" />
+
             <div className="absolute top-0 left-1/4 w-[500px] h-[500px] bg-cyan-500/10 rounded-full blur-[100px] animate-pulse mix-blend-screen" style={{ animationDuration: "8s" }} />
             <div className="absolute bottom-0 right-1/4 w-[500px] h-[500px] bg-blue-600/10 rounded-full blur-[100px] animate-pulse mix-blend-screen" style={{ animationDuration: "10s", animationDelay: "1s" }} />
-            <div className="pointer-events-none absolute inset-0 opacity-[0.05] bg-[url('/assets/noise.png')]" />
-
+         
             <div className="relative max-w-360 mx-auto px-6 lg:px-12 z-10">
 
                 <header className="max-w-3xl mx-auto text-center mb-20 space-y-6">
