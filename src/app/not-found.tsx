@@ -24,7 +24,7 @@ export default function NotFound() {
         <p className="text-slate-400">
             It seems you've ventured into the void. The page you are looking for has been moved, deleted, or captured by another team.
         </p>
-        <div className="opacity-0 hover:opacity-100 transition-opacity duration-500 text-[10px] text-slate-800 select-all cursor-text selection:bg-cyan-500 selection:text-white">
+        <div className="opacity-0">
             A1S&#123;h0w_d1d_y0u_g3t_h3r3&#125;
         </div>
 
